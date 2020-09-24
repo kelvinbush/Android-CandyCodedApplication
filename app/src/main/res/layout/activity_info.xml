@@ -38,6 +38,8 @@
         app:layout_constraintTop_toBottomOf="@+id/image_view_candy_store" />
 
     <TextView
+        android:clickable="true"
+        android:onClick="createPhoneIntent"
         android:id="@+id/text_view_phone"
         android:layout_width="0dp"
         android:layout_height="30dp"
