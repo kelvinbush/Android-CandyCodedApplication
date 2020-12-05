@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Created by sarah on 9/28/17.
  */
 
-public class XMLTestHelpers {
+public class   XMLTestHelpers {
 
     public static class ViewContainer {
         public String id;

@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/XMLTestHelpers.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/XMLTestHelpers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
@@ -225,43 +226,59 @@
       <option name="project" value="LOCAL" />
       <updated>1600949039913</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="share a candy with intent task completed">
+      <created>1600949489247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600949489247</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start information activity task completed" />
     <MESSAGE value="start google maps activity task completed" />
     <MESSAGE value="start phone activity task completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="start phone activity task completed" />
+    <MESSAGE value="share a candy with intent task completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="share a candy with intent task completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1600949145887">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1600949145887" />
-    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1600949038065">
+    <state x="219" y="0" key="CommitChangelistDialog2" timestamp="1600949487639">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1600949038065" />
-    <state width="1306" height="189" key="GridCell.Tab.0.bottom" timestamp="1600949447892">
+    <state x="219" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1600949487639" />
+    <state width="351" height="459" key="Git.Branch.Popup" timestamp="1600949649874">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600949447892" />
-    <state width="1306" height="189" key="GridCell.Tab.0.center" timestamp="1600949447891">
+    <state width="351" height="459" key="Git.Branch.Popup/0.0.1366.768@0.0.1366.768" timestamp="1600949649874" />
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom" timestamp="1602391183232">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1600949447891" />
-    <state width="1306" height="189" key="GridCell.Tab.0.left" timestamp="1600949447891">
+    <state width="1323" height="191" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602391183232" />
+    <state width="1323" height="191" key="GridCell.Tab.0.center" timestamp="1602391183232">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1600949447891" />
-    <state width="1306" height="189" key="GridCell.Tab.0.right" timestamp="1600949447891">
+    <state width="1323" height="191" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602391183232" />
+    <state width="1323" height="191" key="GridCell.Tab.0.left" timestamp="1602391183231">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1600949447891" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1600949050215">
+    <state width="1323" height="191" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602391183231" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right" timestamp="1602391183232">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1600949050215" />
+    <state width="1323" height="191" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602391183232" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1600949497764">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1600949497764" />
+    <state x="348" y="97" key="git4idea.branch.GitSmartOperationDialog" timestamp="1600949656233">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="348" y="97" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.768@0.0.1366.768" timestamp="1600949656233" />
   </component>
 </project>
